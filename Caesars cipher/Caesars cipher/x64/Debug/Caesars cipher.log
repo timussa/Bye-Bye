@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\Unik\Proga\Bye-Bye\Caesars cipher\Caesars cipher\main.cpp(4,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  shifr.cpp
+  Создание кода...
+  Caesars cipher.vcxproj -> D:\Unik\Proga\Bye-Bye\Caesars cipher\x64\Debug\Caesars cipher.exe
